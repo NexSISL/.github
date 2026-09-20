@@ -34,8 +34,8 @@ without compromising the stability of the rest of the ecosystem.
 | Project | Description |
 | --- | --- |
 | [Nexora](https://github.com/NexSISL/NexoraBot) | A modular Discord bot featuring music, moderation, tickets, giveaways, AutoMod, Anti-Raid, utilities, internationalization support and more! |
-| [NexStatus](https://github.com/NexSISL/NexStatus) | A web monitor for your services, so you can self-host a website like [UptimeRobot](https://uptimerobot.com/), [HetrixTools](https://hetrixtools.com/), and more. This might not be as powerful, but it's more cooler :) |
-| [And a lot more](https://github.com/NexSISL) | There's more projects and repos that can't be shown for security purposes, but those provide the security and reliability of the Nexora ecosystem. |
+| [NexStatus](https://github.com/NexSISL/NexStatus) | A web monitor for your services, so you can self-host a website like [UptimeRobot](https://uptimerobot.com/), [HetrixTools](https://hetrixtools.com/), and more. This might not be as powerful, but it looks cooler :) |
+| [Internal Infrastructure](https://github.com/NexSISL) | There are more projects that are private infrastructure repositories, wich provide the security and reliability of the Nexora ecosystem. |
 
 ## Our Principles
 
