@@ -1,105 +1,77 @@
 <div align="center">
   <img
     src="https://avatars.githubusercontent.com/u/322872401?s=1024&v=4"
-    alt="Nexora logo"
-    width="150"
+    alt="NexSISL"
+    width="115"
   />
 
-  # NexSISL
+# NexSISL
 
-  ### Nexora Secure Infrastructure Systems Lab
+**Nexora Secure Infrastructure Systems Lab**
 
-  We build connected infrastructure, automation, and services with a focus on
-  security, resilience, and accessible user experiences.
+Secure, resilient, and interconnected services for the Nexora ecosystem.
 
-  **Secure systems. Reliable infrastructure. Better experiences.**
+  <br />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
 </div>
 
----
+## About
 
-## About NexSISL
-
-**NexSISL** stands for **Nexora Secure Infrastructure Systems Lab**.
-
-We are the organization behind the Nexora ecosystem: a collection of
-applications, services, and tools designed to provide advanced automation,
-community management, and dependable infrastructure.
-
-Our work brings together bots, APIs, dashboards, databases, and real-time
-services within a modular architecture. Each component can evolve independently
-without compromising the stability of the rest of the ecosystem.
+NexSISL develops the applications, automation, and infrastructure behind the
+Nexora ecosystem. Our systems combine bots, APIs, dashboards, databases, and
+real-time services through a modular architecture.
 
 ## Projects
 
-| Project | Description |
-| --- | --- |
-| [Nexora](https://github.com/NexSISL/NexoraBot) | A modular Discord bot featuring music, moderation, tickets, giveaways, AutoMod, Anti-Raid, utilities, internationalization support and more! |
-| [NexStatus](https://github.com/NexSISL/NexStatus) | A web monitor for your services, so you can self-host a website like [UptimeRobot](https://uptimerobot.com/), [HetrixTools](https://hetrixtools.com/), and more. This might not be as powerful, but it's more cooler :) |
-| [And a lot more](https://github.com/NexSISL) | There's more projects and repos that can't be shown for security purposes, but those provide the security and reliability of the Nexora ecosystem. |
+| Project                                               | Description                                                                                                              |
+| :---------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+| **[Nexora](https://github.com/NexSISL/NexoraBot)**    | Modular Discord bot with music, moderation, tickets, giveaways, AutoMod, Anti-Raid, utilities, and internationalization. |
+| **[NexStatus](https://github.com/NexSISL/NexStatus)** | Self-hosted service monitoring and incident management with Discord integration.                                         |
+| **Internal Infrastructure**                           | Private monitoring, security, deployment, and automation systems supporting the Nexora ecosystem.                        |
 
-## Our Principles
+## Principles
 
-### Security by Design
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Security by Design</h3>
+      <p>Authenticated communication, validated input, isolated credentials, and clearly defined service boundaries.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Resilient Infrastructure</h3>
+      <p>Services are designed to degrade gracefully without allowing secondary failures to disrupt the entire ecosystem.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Modular Architecture</h3>
+      <p>Components can be developed, deployed, maintained, and scaled independently.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 International by Design</h3>
+      <p>Localized experiences begin with Spanish and English, with an extensible foundation for additional languages.</p>
+    </td>
+  </tr>
+</table>
 
-Secrets and credentials remain outside the source code. Internal communication
-uses authentication, input validation, and clearly defined contracts.
-
-### Resilient Infrastructure
-
-We design services to degrade gracefully. The failure of a secondary dependency
-should not bring down the entire ecosystem.
-
-### Modular Architecture
-
-Bots, dashboards, APIs, and persistence systems remain separated, allowing each
-component to be deployed, scaled, and maintained independently.
-
-### International Experiences
-
-Nexora is designed to provide localized interfaces and responses, starting with
-Spanish and English while maintaining an extensible foundation for additional
-languages.
-
-### Responsible Development
-
-We prioritize maintainable code, semantic versioning, testing, documentation,
-and compatibility across services.
-
-## Technologies
-
-Parts of our ecosystem use:
-
-- Node.js
-- Discord.js
-- Express
-- MySQL
-- REST APIs
-- WebSockets
-- OAuth2 and JWT
-- Versioned internationalization catalogs
-- Supervised services and background processes
-
-Technologies may vary according to the requirements of each project.
+Development prioritizes maintainability, documentation, versioned interfaces,
+testing, and compatibility across services.
 
 ## Security
 
-If you discover a vulnerability, please avoid publishing sensitive details in a
-public issue where they could facilitate exploitation.
-
-Contact the maintainers of the affected project privately so the issue can be
-investigated and resolved responsibly.
-
-## Ecosystem Status
-
-NexSISL projects are under active development. Some features may be tested in
-Beta environments before they are introduced into stable services.
-
-Refer to each repository's README and documentation for its current status,
-requirements, and setup instructions.
+Please do not disclose vulnerabilities or sensitive technical details through
+public issues. Contact the maintainers of the affected project privately so the
+report can be investigated responsibly.
 
 ---
 
 <div align="center">
   <strong>NexSISL</strong><br />
-  Nexora Secure Infrastructure Systems Lab
+  <sub>Secure systems · Reliable infrastructure · Better experiences</sub>
 </div>
